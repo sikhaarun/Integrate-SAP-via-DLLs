@@ -8,7 +8,7 @@ SAP .NET connector (NCO) connects Microsoft .NET application and SAP systems by 
 Create a web application SAP_NCO_ConnectionDemo and add reference of sapnco.dll and sapnco_utils.dll
 
 # Where to get NCO 3.0
-+ The SAP .NET Connector 3.0.20 can be downloaded from the SAP Service Marketplace.
+The SAP .NET Connector 3.0.20 can be downloaded from the SAP Service Marketplace.
  + sapnco.dll
  + sapnco_utils.dll
 
