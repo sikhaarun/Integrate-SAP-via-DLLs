@@ -1,7 +1,7 @@
 # Connect to SAP and do RFC Calls by c#.NET Code 
 This is a sample code for Integrating SAP using .NET Connector 3.0 (NCO)
 
-SAP .NET connector (NCO) connects Microsoft .NET application and SAP systems by using the SAP RFC. This is called as NCo. Similarly, e can connect by using the Java, which is called the JCO. We will go with the .NET connector. Before moving forward these are prerequisites to understanding the process easily. Must have basic knowledge of development using C# and ASP.Net For developing the connector you will require the following Dll’s. There are 32 bit (x86) and 64-bit versions are available.
+SAP .NET connector (NCO) connects Microsoft .NET application and SAP systems by using the SAP RFC. This is called as NCo. Similarly, e can connect by using the Java, which is called the JCO. We will go with the .NET connector. Before moving forward these are prerequisites to understanding the process easily. Must have basic knowledge of development using C# and ASP.Net For developing the connector you will require the following Dll’s. 
 
 
 
