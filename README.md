@@ -3,14 +3,14 @@ This is a sample code for Integrating SAP using .NET Connector 3.0 (NCO)
 
 SAP .NET connector (NCO) connects Microsoft .NET application and SAP systems by using the SAP RFC. This is called as NCo. Similarly, e can connect by using the Java, which is called the JCO. We will go with the .NET connector. Before moving forward these are prerequisites to understanding the process easily. Must have basic knowledge of development using C# and ASP.Net For developing the connector you will require the following Dll’s. There are 32 bit (x86) and 64-bit versions are available.
 
-+ sapnco.dll
-+ sapnco_utils.dll
 
 
 Create a web application SAP_NCO_ConnectionDemo and add reference of sapnco.dll and sapnco_utils.dll
 
 # Where to get NCO 3.0
 + The SAP .NET Connector 3.0.20 can be downloaded from the SAP Service Marketplace.
+ + sapnco.dll
+ + sapnco_utils.dll
 
 Navigate to SAP Connector for Microsoft .NET
 Download SAP Connector for Microsoft .NET Version 3.0
